@@ -26,7 +26,7 @@
     ct-ng menuconfig
     
 ## change like below
-</images/menu.png>
+(/images/menu.png)
  
 
 
