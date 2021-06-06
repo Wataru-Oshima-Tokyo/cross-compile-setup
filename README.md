@@ -25,7 +25,9 @@
 ## change the configure
     ct-ng menuconfig
     
-## change like below 
+## change like below
+ <images/menu.xcf>
+ 
 
 
  
