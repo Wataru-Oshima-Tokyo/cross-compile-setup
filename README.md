@@ -26,7 +26,7 @@
     ct-ng menuconfig
     
 ## change like below
-![GitHub Logo](/images/menu.png)
+![menu config](/images/menu.xcf)
  
 
 
