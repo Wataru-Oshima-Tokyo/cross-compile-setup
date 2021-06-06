@@ -45,5 +45,5 @@
 ## add the permission to the /opt/cross
     sudo chmod a+rwx /opt/cross
 
-## build it 
+## build it (It takes a while)
     ct-ng build
