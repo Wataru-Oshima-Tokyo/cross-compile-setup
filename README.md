@@ -30,4 +30,4 @@
 ![menu config](/images/menu.png)
  
     Change to (${Home}/crosstool-ng/src) at Local tarballls directory
-    ![Path and misc options](/images/path.png)
+![Path and misc options](/images/path.png)
