@@ -29,5 +29,16 @@
     Click the Paths and misc options
 ![menu config](/images/menu.png)
  
-    Change to (${Home}/crosstool-ng/src) at Local tarballls directory
+    1. Change to (${Home}/crosstool-ng/src) at Local tarballls directory
+    2. Change to ({CT_TOP_DIR}/.build) at Working directory
 ![Path and misc options](/images/path.png)
+
+    Click the target options
+![menu config](/images/menu.png)
+
+    1. disable the Use the MMU
+    2. change () to (cortex-a7) Emit assembly for CPU
+    3. change () to (neon-vfpv4) Use specific FPU
+![menu config](/images/target.png)
+    
+
